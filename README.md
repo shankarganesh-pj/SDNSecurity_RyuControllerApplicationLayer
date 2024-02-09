@@ -1,7 +1,7 @@
 # SDN Security - Application Layer for Ryu Controller
 Systematic Application Layer that Allows Network Monitoring and Firewall Rules for Ryu-based SDN Environments. The basis of the project is to create a DDoS Mitigation System based on Ryu SDN Controller with Port Blocking Mechanism and a versatile Application Layer.
 
-This is a thesis project that creates The Application Layer to complement the DDoS Mitigation System of the Ryu SDN Controller inside https://github.com/bryanoliverh/SDNSecurity_DDOSMitigationDecisionTree_PortBlocking. 
+This is a Shankar PJ's project that creates The Application Layer to complement the DDoS Mitigation System of the Ryu SDN Controller inside https://github.com/bryanoliverh/SDNSecurity_DDOSMitigationDecisionTree_PortBlocking. 
 
 This application runs on top of the Ryu Controller. As the Ryu Controller that was made is able to do packet forwarding and DDoS detection and mitigation with a port blocking mechanism, this application layer is the website to manage the topology information and it provides actions as follows:
 
